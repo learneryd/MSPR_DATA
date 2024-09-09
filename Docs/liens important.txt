@@ -1,0 +1,33 @@
+﻿liens pour les datas à mettre dans la bd localhost:
+https://www.data.gouv.fr/fr/datasets/621df2954fa5a3b5a023e23c/: 3eme lien (choix)
+
+
+activite emploi:https://www.insee.fr/fr/statistiques/7657353
+utile: https://www.insee.fr/fr/statistiques/7936374?sommaire=7936507
+
+
+ville de paris: emploi: https://www.data.gouv.fr/fr/organizations/ville-de-paris/#/datasets
+pour les aides dans paris: https://www.data.gouv.fr/fr/datasets/casvp-nombre-de-beneficiaires-daides-de-laction-sociale/#/information
+
+
+fiscalite: https://www.data.gouv.fr/fr/datasets/impots-locaux-fichier-de-recensement-des-elements-dimposition-a-la-fiscalite-directe-locale-rei-3/
+prix immobilier: https://www.data.gouv.fr/fr/datasets/prix-immobilier-et-revenu-dans-les-villes-d-ile-de-france/
+taux de pression et emploi:
+https://www.data.gouv.fr/fr/datasets/taux-de-pression-et-demploi-pour-les-diplomes-de-la-voie-professionnelle/
+les communes existantes en ile de france: 
+https://www.data.gouv.fr/fr/datasets/communes-ile-de-france/
+https://www.data.gouv.fr/fr/datasets/les-communes-d-ile-de-france-idf/
+eveneement e ildfr: https://www.data.gouv.fr/fr/datasets/evenements-publics-en-ile-de-france-via-open-agenda/
+conservatoire en ile de france: https://www.data.gouv.fr/fr/datasets/les-conservatoires-et-ecoles-de-musique-en-ile-de-france-idf/#/resources
+aménagement vélo en ile de france: 
+https://www.data.gouv.fr/fr/datasets/amenagements-velo-en-ile-de-france-2/
+service public:
+https://www.data.gouv.fr/fr/datasets/les-services-aux-particuliers-par-commune-ou-arrondissement-base-permanente-des-equipements-idf/
+hopitaux:
+https://www.data.gouv.fr/fr/datasets/les-etablissements-hospitaliers-franciliens-idf/
+localisation pro de sante:
+https://www.data.gouv.fr/fr/datasets/annuaire-et-localisation-des-professionnels-de-sante-en-ile-de-france/
+demandeur d’emploi: 
+https://www.data.gouv.fr/fr/datasets/demandeurs-d-emploi-categorie-a-de-janvier-2000-a-avril-2013-idf/
+egalite homme/femme:
+https://www.data.gouv.fr/fr/datasets/index-egalite-professionnelle-f-h-des-entreprises-de-50-salaries-ou-plus/#/resources
